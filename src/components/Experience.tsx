@@ -19,16 +19,17 @@ const experiences = [
     ],
   },
   {
-    role: "Platform Contributor",
-    company: "InterJob — Startup Platform",
-    period: "2026",
+    role: "Automation Developer",
+    company: "Lead Generation & WhatsApp Automation Tool",
+    period: "2025",
     description:
-      "Contributed to the development of InterJob, a startup platform connecting job seekers with opportunities, focusing on frontend components and user experience.",
+      "Developed an automated system to extract business leads and send personalized WhatsApp outreach messages using APIs and scripting.",
     highlights: [
-      "Developed key UI components for the job listing platform",
-      "Implemented responsive design patterns",
-      "Worked with REST APIs for data integration",
-      "Gained startup environment experience",
+      "Built lead scraping system for targeted business categories",
+      "Integrated WhatsApp API for automated messaging",
+      "Connected database (Supabase) for storing and managing leads",
+      "Created personalized message workflows for client outreach",
+      "Focused on real-world business use case"
     ],
   },
 ];
